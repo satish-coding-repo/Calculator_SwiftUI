@@ -34,7 +34,6 @@ struct CalculatorView_Previews: PreviewProvider {
 }
 
 // MARK: - COMPONENTS
-
 extension CalculatorView {
     
     private var displayText: some View {
